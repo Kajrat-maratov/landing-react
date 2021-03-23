@@ -1,0 +1,33 @@
+.helpCard {
+  margin: 0;
+  padding: 0;
+  width: 450px;
+  height: 450px;
+  background: #ffe2de;
+
+  font-size: 32px;
+  line-height: 34px;
+  letter-spacing: -0.006em;
+  color: #ffffff;
+}
+
+.helpCard span {
+  width: 340px;
+  height: 72px;
+  border-bottom: 1px solid #ffffff;
+  margin: auto;
+  display: block;
+}
+.helpCard h1 {
+  display: inline;
+  flex-wrap: wrap;
+}
+.helpCard div {
+  display: inline;
+  width: 9px;
+  height: 9px;
+  background: #e9b730;
+  display: inline-block;
+  border-radius: 50px;
+  margin: 30px 50px 0 65px;
+}
